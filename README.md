@@ -109,16 +109,7 @@ Chrome extensions that enhance platform UIs via DOM parsing and request rewritin
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=pyronix-dev&show_icons=true&count_private=true&hide_border=true&title_color=A371F7&icon_color=A371F7&text_color=C9D1D9&bg_color=0D1117" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pyronix-dev&layout=compact&hide_border=true&title_color=A371F7&text_color=C9D1D9&bg_color=0D1117" />
-
-<br/>
-
 <img src="https://streak-stats.demolab.com?user=pyronix-dev&hide_border=true&background=0D1117&stroke=A371F7&ring=A371F7&fire=7C3AED&currStreakLabel=A371F7&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E" />
-
-<br/><br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=pyronix-dev&theme=dracula&no-frame=true&no-bg=true&column=7&margin-w=4" />
 
 </div>
 
@@ -128,6 +119,9 @@ Chrome extensions that enhance platform UIs via DOM parsing and request rewritin
 
 <div align="center">
 
+<a href="mailto:omx001@proton.me">
+  <img src="https://img.shields.io/badge/Email-omx001@proton.me-8B5CF6?style=for-the-badge&logo=protonmail&logoColor=white" />
+</a>
 <a href="https://github.com/pyronix-dev">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
